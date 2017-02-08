@@ -21,9 +21,13 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
-width=input("Width of multiplication table: ")
-height=input("Height of multiplication table: ")
+width1=input("Width of multiplication table: ")
+height1=input("Height of multiplication table: ")
 
-for x in range(1,(int(width)+1)):
-    print(x)
-
+width=range(1,(int(width1)+1))
+height=range(1,(int(height1)+1))
+for x in height:
+    print("x")
+for x in width:
+    print("x")
+       
