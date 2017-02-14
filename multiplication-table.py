@@ -28,7 +28,7 @@ width=range(1,(int(width1)+1))
 ht=1
 while ht<=height:
     for x in width:
-        print(ht*x, end=' ')
+        print("   "+str(ht*x)+"   ", end=' ')
     print(" ")
     ht=ht+1
     
