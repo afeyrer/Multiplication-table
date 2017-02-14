@@ -1,7 +1,7 @@
 """
 multiplication-table.py
 Author: Abby Feyrer
-Credit: <list sources used, if any>
+Credit:None
 Assignment:
 
 Write and submit a Python program that prints a multiplication table. The user 
